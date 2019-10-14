@@ -49,7 +49,7 @@ function DoBuildGlobalMenu(&$aGlobalMenu, &$aModuleMenu) {
        "sort"=>"100",
        "text"=>"Custom Item Text",
        "title"=>"Custom Item Tille",
-       "url"=>"/local/menu/custom_item.php",
+       "url"=>"/bitrix/admin/custom_item.php",
        "more_url"=>array(),
     );
 
